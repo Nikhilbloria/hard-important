@@ -17,4 +17,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Nikhilbloria/hard-important/tree/master/0146-lru-cache) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/Nikhilbloria/hard-important/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
