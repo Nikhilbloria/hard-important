@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Nikhilbloria/hard-important/tree/master/0036-valid-sudoku) |
 | [0146-lru-cache](https://github.com/Nikhilbloria/hard-important/tree/master/0146-lru-cache) |
 ## Linked List
 |  |
@@ -29,4 +30,12 @@
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/Nikhilbloria/hard-important/tree/master/0696-count-binary-substrings) |
+## Array
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Nikhilbloria/hard-important/tree/master/0036-valid-sudoku) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Nikhilbloria/hard-important/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
