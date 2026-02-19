@@ -21,4 +21,12 @@
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/Nikhilbloria/hard-important/tree/master/0693-binary-number-with-alternating-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/Nikhilbloria/hard-important/tree/master/0696-count-binary-substrings) |
+## String
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/Nikhilbloria/hard-important/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
