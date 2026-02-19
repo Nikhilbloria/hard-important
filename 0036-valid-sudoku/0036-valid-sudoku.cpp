@@ -7,8 +7,10 @@ public:
                 if(board[i][j]=='.') continue;
                 //store every indices of i and j where we found number ;
                 string row = string(1, board[i][j]) +"_row"+ to_string(i);
+                // if board[0][2] = '5' then row = "5_row0"
                 string col = string(1, board[i][j]) + "_col"+ to_string(j);
                 string grid = string(1, board[i][j]) + "_grid"+ to_string(i/3)+ " "+ to_string(j/3);
+                // grid = "5_grid0 0"
                 //check if it is already present
                 if(st.find(row)!=st.end()||st.find(col)!=st.end()||st.find(grid)!=st.end()){
                     return false;
