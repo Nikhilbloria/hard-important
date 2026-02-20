@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/Nikhilbloria/hard-important/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/Nikhilbloria/hard-important/tree/master/0761-special-binary-string) |
 ## Array
 |  |
 | ------- |
@@ -45,4 +46,12 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Nikhilbloria/hard-important/tree/master/0037-sudoku-solver) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0761-special-binary-string](https://github.com/Nikhilbloria/hard-important/tree/master/0761-special-binary-string) |
+## Sorting
+|  |
+| ------- |
+| [0761-special-binary-string](https://github.com/Nikhilbloria/hard-important/tree/master/0761-special-binary-string) |
 <!---LeetCode Topics End-->
