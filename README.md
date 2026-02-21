@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/Nikhilbloria/hard-important/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Nikhilbloria/hard-important/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/Nikhilbloria/hard-important/tree/master/0761-special-binary-string) |
+## Math
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Nikhilbloria/hard-important/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
